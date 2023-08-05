@@ -5,5 +5,5 @@
 - Yifei Zhang
 - Steve Macenski
 - Yiming Cui
-
+- Laurent Mazare
 
