@@ -1,5 +1,6 @@
 안드로이드 개발자 리스트
 
 - Tomek Zawadzki
+- Daniel Sinclair
 
 
