@@ -4,5 +4,6 @@ iOS 개발자 리스트
 - Stephen Celis
 - Philipp Schmid
 - refcell.eth
+- Ariel Mashraki
 
 
