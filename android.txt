@@ -3,5 +3,6 @@
 - Tomek Zawadzki
 - Daniel Sinclair
 - Ismail Pelaseyed
+- Matthias Fey
 
 
